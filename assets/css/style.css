@@ -1238,6 +1238,17 @@ team
   color: #fff;
 }
 
+.team-item j {
+  position: absolute;
+  right: 50%;
+  display: flex;
+  margin-top: 15px;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  color: #fff;
+}
+
 .team-item .quote {
   background-color: #618264;
   border-radius: 20px;
@@ -1296,7 +1307,7 @@ team
 }
 
 .team-item .team-content p {
-  margin-top: 25px;
+  margin-top: 100px;
   padding-left: 25px;
   padding-right: 25px;
   margin-bottom: 25px;
