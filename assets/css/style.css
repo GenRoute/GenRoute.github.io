@@ -1169,6 +1169,48 @@ parallax & home seperator
   transition: all 0.3s ease 0s;
 }
 
+.count-item div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: center;
+  color: #fff;
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: 0.25px;
+}
+
+.count-item div span{
+  position: absolute;
+  bottom: 180px;
+  left: 150px;
+  margin-bottom: 0%;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: center;
+  color: #fff;
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: 0.25px;
+}
+
+.count-item div span1{
+  position: absolute;
+  bottom: 180px;
+  left: 65%;
+  margin-bottom: 0%;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: center;
+  color: #fff;
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: 0.25px;
+}
+
+
 .counter .content .count-item span {
   display: block;
   text-align: center;
