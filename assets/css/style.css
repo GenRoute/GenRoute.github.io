@@ -1049,6 +1049,20 @@ parallax & home seperator
   text-align: center;
 }
 
+.mini .mini-content .mini-box .x {
+  position: absolute;
+  right: 60px;
+  font-size: 20px;
+  background-color: #618264;
+  color: #fff;
+  border-radius: 20px;
+  width: 35px;
+  height: 35px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 .mini .mini-content .mini-box span {
   display: block;
   font-weight: 400;
@@ -1064,7 +1078,7 @@ parallax & home seperator
   color: #1e1e1e;
   letter-spacing: 0.25px;
   margin-bottom: 5px;
-  margin-top: 20px;
+  margin-top: 55px;
 }
 
 .counter {
@@ -1240,7 +1254,7 @@ team
 
 .team-item j {
   position: absolute;
-  right: 50%;
+  right: 145px;
   display: flex;
   margin-top: 15px;
   justify-content: center;
